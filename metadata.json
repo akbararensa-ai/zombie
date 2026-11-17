@@ -1,0 +1,6 @@
+{
+  "name": "OUTBREAK: LAST EXIT",
+  "description": "3D FPS Zombie Wave Survival set in an Abandoned International Airport, optimized for Android mobile web and PC browsers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
